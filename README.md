@@ -57,8 +57,3 @@ If you want to burn token you can click on the "burnToken" function and enter th
 Vidushi Jaiswal
 
 [@Vidushi](vidushij078@gmail.com)
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
